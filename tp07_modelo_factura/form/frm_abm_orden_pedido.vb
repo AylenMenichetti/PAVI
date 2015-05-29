@@ -41,7 +41,7 @@ Public Class frm_orden_pedido
     Dim cadena_conexion As String = ""
 
     Dim estado As accion = accion.insertar
-    Dim _acceso As acceso_a_datos
+    Dim _acceso As acceso_a_datos ' Esta variable utiliza la clase acceso a datos
 
     Private Sub frm_orden_pedido_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me._txt_fecha.Text = Today.Date()

@@ -108,3 +108,6 @@ K:\_ACTUALES\_UTN\_PAV1_VB.NET\clases\tp07_modelo_factura\obj\x86\Debug\ResGen.w
 C:\Users\PC\Downloads\tp07_modelo_factura\obj\x86\Debug\tp7.exe
 C:\Users\PC\Downloads\tp07_modelo_factura\obj\x86\Debug\tp7.xml
 C:\Users\PC\Downloads\tp07_modelo_factura\obj\x86\Debug\tp7.pdb
+C:\Users\PC\Documents\GitHub\PAVI\tp07_modelo_factura\obj\x86\Debug\tp7.exe
+C:\Users\PC\Documents\GitHub\PAVI\tp07_modelo_factura\obj\x86\Debug\tp7.xml
+C:\Users\PC\Documents\GitHub\PAVI\tp07_modelo_factura\obj\x86\Debug\tp7.pdb
