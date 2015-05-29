@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tp7">
+</Property><Property Name="Archivo de la solución" Value="G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\tp7.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\tp7.suo">
+</Property><Property Name="Date" Value="martes, 03 de mayo de 2011">
+</Property><Property Name="Time" Value="18:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tp7.sln" Description="La copia G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\tp7.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="tp7.suo" Description="La copia G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\tp7.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="tp7" Source="tp7.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\tp7.vbproj">
+</Event><Event ErrorLevel="0" Project="tp7" Source="clases\acceso_a_datos.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\clases\acceso_a_datos.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="clases\acceso_clientes.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\clases\acceso_clientes.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="clases\combo.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\clases\combo.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_ABM_gener.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_ABM_gener.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_ABM_gener.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_ABM_gener.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_abm_orden_pedido.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_abm_orden_pedido.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_abm_orden_pedido.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_abm_orden_pedido.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\Frm_buscar_pedido.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\Frm_buscar_pedido.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\Frm_buscar_pedido.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\Frm_buscar_pedido.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_inicio_sistema.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_inicio_sistema.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_inicio_sistema.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_inicio_sistema.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_tp4_acceso_datos.designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_tp4_acceso_datos.designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_tp4_acceso_datos.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_tp4_acceso_datos.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\BUSCAR01.msk" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\BUSCAR01.msk">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\Grabar2.msk" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\Grabar2.msk">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\Nuevo2.msk" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\Nuevo2.msk">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\puerta.msk" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\puerta.msk">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\BUSCAR01.bmp" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\BUSCAR01.bmp">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\CANCELAR.ICO" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\CANCELAR.ICO">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\DISK04.ICO" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\DISK04.ICO">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\Empty Recycle Bin 2000.ico" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\Empty Recycle Bin 2000.ico">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\FONDO2.BMP" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\FONDO2.BMP">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\Grabar2.bmp" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\Grabar2.bmp">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\Nuevo2.bmp" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\Nuevo2.bmp">
+</Event><Event ErrorLevel="0" Project="tp7" Source="imagenes\puerta.bmp" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\imagenes\puerta.bmp">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_ABM_gener.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_ABM_gener.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_abm_orden_pedido.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_abm_orden_pedido.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\Frm_buscar_pedido.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\Frm_buscar_pedido.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_inicio_sistema.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_inicio_sistema.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="form\frm_tp4_acceso_datos.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\form\frm_tp4_acceso_datos.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="tp7" Source="tp7.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="tp7" Source="tp7.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tp7.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="tp7.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="tp7" Source="tp7.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

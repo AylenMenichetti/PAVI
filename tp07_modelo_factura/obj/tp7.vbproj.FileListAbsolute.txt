@@ -1,0 +1,14 @@
+F:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.exe
+F:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.xml
+F:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.pdb
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\bin\Debug\tp7.exe
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\bin\Debug\tp7.pdb
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\bin\Debug\tp7.xml
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\ResolveAssemblyReference.cache
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.frm_ABM_gener.resources
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.frm_orden_pedido.resources
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.frm_inicio_sistema.resources
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.frm_tp4_acceso_datos.resources
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.Resources.resources
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.vbproj.GenerateResource.Cache
+F:\utn\PAV1_VB.NET\clases\tp07_modelo_factura\obj\Debug\WindowsApplication1.frm_buscar_pedido.resources

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TP07ModeloFactura">
+</Property><Property Name="Archivo de la solución" Value="I:\trabajos-proyectos\utn\pav1_VB.NET\clases\tp07_modelo_factura\TP07ModeloFactura.sln">
+</Property><Property Name="Date" Value="viernes, 04 de octubre de 2013">
+</Property><Property Name="Time" Value="15:39">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="TP07ModeloFactura" Source="TP07ModeloFactura.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="TP07ModeloFactura" Source="TP07ModeloFactura.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TP07ModeloFactura.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="TP07ModeloFactura.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TP07ModeloFactura" Source="TP07ModeloFactura.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

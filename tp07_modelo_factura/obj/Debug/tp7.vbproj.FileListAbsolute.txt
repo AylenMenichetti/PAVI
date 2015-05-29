@@ -1,0 +1,3 @@
+G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.exe
+G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.xml
+G:\utn\pav1_VB.NET\clases\tp07_modelo_factura\obj\Debug\tp7.pdb
